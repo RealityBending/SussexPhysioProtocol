@@ -29,6 +29,20 @@ Here is a template of the information that should be included in the UK version 
 
 #### 1.1.1 BITalino 
 
+Regardless of the type of physiological data you will be collecting for the study, it is essential to include the corresponding user manual provided by the manufacturer, which can be found online.
 
+## 2. Statements
+
+Apart from describing the tasks that participants will conduct during the experiment (under the METHOD section for ethical review made at the University of Sussex), it is important to provide a detailed explanation of the physiological measurement procedure. This should include information such as the brand of the equipment used, the setup of the equipment, proper training for the researchers, participant instructions, alternative approaches, and safety procedures. Additionally, it is crucial to state in your ethical application that all manufacturer instructions will be strictly followed.
+
+Here is a template of the information that should be added to the experimental design for an ECG study:
+
+*Cardiac activity will be collected through a BITalino device via ECG, with disposable electrodes placed on the collarbones and above the hipbone (or alternatively, using a fingertip sensor for PPG if the former is not possible). These non-invasive surface physiological measures will be employed. The researchers will receive proper training to handle the equipment and ensure participants' comfort and safety during the setup and recording process.*
+
+*Participants will be provided with instructions prior to the experiment regarding the electrode placement on their collarbones and above the hip. They will also be advised to wear loose and comfortable clothing. Upon the placement of the first electrode, researchers will carefully observe and inquire about any signs of potential allergic reactions, such as redness or discomfort. If any such reactions occur, the device will be promptly removed, and alternative measures will be implemented (e.g., pulse measurement via fingertip PPG).*
+
+*During data collection, strict adherence to all manufacturer instructions will be maintained. Brand-new electrodes will be used for each participant to ensure accurate signal quality. After the session, electrodes will be promptly disposed of in accordance with recommended guidelines, ensuring participant safety and maintaining stringent hygiene standards."*
+
+*Please note that the template is for reference purposes only and should be adapted to fit the specific requirements of each study.
 
 

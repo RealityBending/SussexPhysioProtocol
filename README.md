@@ -2,10 +2,10 @@
 
 *Guidelines for best practices in psychophysiological research.*
 
-## What do add in your Inform Consent form?
+## What to add in your Inform Consent form?
 
 
-## What do add in your Ethics Application?
+## What to add in your Ethics Application?
 
 
 ## 1. Documentation

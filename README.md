@@ -25,9 +25,14 @@ Here is a template of the information that should be included in the UK version 
 
 ## 1. Documentation
 
-### 1.1 ECG
+### 1.1 Risk assessment form
 
-#### 1.1.1 BITalino 
+A risk assessment form should be included in your ethical review, listing all potential risks and explaining in detail who might be at risk and how to properly control those risks. It is important to note that participants in your study will need to read and sign the form. This ensures that they are aware of the potential risks involved and that they acknowledge their understanding of the safety measures and procedures outlined in the assessment.
+
+A list of the University of Sussex risk assessment forms can be found here: 
+https://www.sussex.ac.uk/hso/hsoatoz
+
+### 1.2 User manual
 
 Regardless of the type of physiological data you will be collecting for the study, it is essential to include the corresponding user manual provided by the manufacturer, which can be found online.
 

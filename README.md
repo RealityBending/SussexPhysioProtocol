@@ -41,7 +41,7 @@ Here is a template of the information that should be added to the experimental d
 
 *Participants will be provided with instructions prior to the experiment regarding the electrode placement on their collarbones and above the hip. They will also be advised to wear loose and comfortable clothing. Upon the placement of the first electrode, researchers will carefully observe and inquire about any signs of potential allergic reactions, such as redness or discomfort. If any such reactions occur, the device will be promptly removed, and alternative measures will be implemented (e.g., pulse measurement via fingertip PPG).*
 
-*During data collection, strict adherence to all manufacturer instructions will be maintained. Brand-new electrodes will be used for each participant to ensure accurate signal quality. After the session, electrodes will be promptly disposed of in accordance with recommended guidelines, ensuring participant safety and maintaining stringent hygiene standards."*
+*During data collection, strict adherence to all manufacturer instructions will be maintained. Brand-new electrodes will be used for each participant to ensure accurate signal quality. After the session, electrodes will be promptly disposed of in accordance with recommended guidelines, ensuring participant safety and maintaining stringent hygiene standards.*
 
 
 

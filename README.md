@@ -13,30 +13,25 @@ Here is a template of the information that should be included in the UK version 
 
 *The ECG is a simple procedure where sensors are attached to the skin to detect the electrical signals produced by your heart each time it beats. The ECG we use is intended for use in life science education and research and is not a medical device. The study is being undertaken for research purposes only, and the researchers will not be able to provide any feedback regarding your ECG following participation. If you have any concerns about your heart and/or related health issues, you should contact your GP. Further information about ECG is available on the NHS website: https://www.nhs.uk/conditions/electrocardiogram/*
 
-### PARTICIPANT ADVISORY: SKIN SENSITIVITY TO ELECTRODE MATERIALS
-
-*We kindly request that participants refrain from volunteering for the study if they are aware of having sensitive skin to adhesives or the materials used in the electrodes. The electrodes used in the study are primarily composed of silver and silver chloride. If you have experienced skin reactions or allergies to these materials in the past, we advise against participation. Your comfort and well-being are our top priorities, and we appreciate your understanding in ensuring a safe and suitable research environment.*
+***Advisory: Skin sensitivity to electrodes.*** *We kindly request that participants refrain from volunteering for the study if they are aware of having sensitive skin to adhesives or the materials used in the electrodes. The electrodes used in the study are primarily composed of silver and silver chloride. If you have experienced skin reactions or allergies to these materials in the past, we advise against participation. Your comfort and well-being are our top priorities, and we appreciate your understanding in ensuring a safe and suitable research environment.*
 
 *Please note that the template is for reference purposes only and should be adapted to fit the specific requirements of each study.
 
 
 ## What to add in your Ethics Application?
 
-
-## 1. Documentation
-
-### 1.1 Risk assessment form
+### Risk assessment form
 
 A risk assessment form should be included in your ethical review, listing all potential risks and explaining in detail who might be at risk and how to properly control those risks. It is important to note that participants in your study will need to read and sign the form. This ensures that they are aware of the potential risks involved and that they acknowledge their understanding of the safety measures and procedures outlined in the assessment.
 
 A list of the University of Sussex risk assessment forms can be found here: 
 https://www.sussex.ac.uk/hso/hsoatoz
 
-### 1.2 User manual
+### User manual
 
 Regardless of the type of physiological data you will be collecting for the study, it is essential to include the corresponding user manual provided by the manufacturer, which can be found online.
 
-## 2. Statements
+### Statements
 
 Apart from describing the tasks that participants will conduct during the experiment (under the METHOD section for ethical review made at the University of Sussex), it is important to provide a detailed explanation of the physiological measurement procedure. This should include information such as the brand of the equipment used, the setup of the equipment, proper training for the researchers, participant instructions, alternative approaches, and safety procedures. Additionally, it is crucial to state in your ethical application that all manufacturer instructions will be strictly followed.
 

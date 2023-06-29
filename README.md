@@ -3,9 +3,9 @@
 *Guidelines for best practices in psychophysiological research.*
 
 ## What to add in your Inform Consent form?
-You should begin by providing a simple, non-technical explanation of the ECG procedure to participants, emphasizing that its purpose is solely to collect data for research. Participants need to be informed that any information unrelated to the study objectives will not be observed or analysed by the researchers. It is crucial to communicate the potential risk of allergic reactions resulting from the materials used in the ECG electrodes to prevent any physical harm. Additionally, participants should be provided with a link to seek professional guidance for any concerns they may have regarding their heart health or related issues.
+You should begin by providing a simple, non-technical explanation of the physiological data collection procedure to participants, emphasizing its purpose in the research study. Participants need to be informed that various sensors or devices may be used to collect physiological signals such as heart rate, respiration, or other relevant data. It should be made clear that the data collected is solely for research purposes and that any irrelevant information will not be observed or analysed by the researchers. Additionally, participants should be notified of the potential risks associated with the data collection procedure to ensure their safety and well-being. Providing a link to professional guidance for any concerns related to their health or well-being is essential.
 
-Here is a template of the information that should be included in the UK version of the information sheet:
+Here is a template of the information that should be included in the UK version of the information sheet for an electrocardiogram (ECG) study:
 
 *ABOUT ECG*
 

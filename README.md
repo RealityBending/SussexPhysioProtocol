@@ -31,17 +31,17 @@ https://www.sussex.ac.uk/hso/hsoatoz
 
 #### ECG
 
-- TODO: Example of ECG risk assessment form?
+- TODO: Example of ECG risk assessment form questions? and Of some typical responses to ito
 
 ### Statements
 
 Apart from describing the tasks that participants will conduct during the experiment (under the METHOD section for ethical review made at the University of Sussex), it is important to provide a detailed explanation of the physiological measurement procedure. This should include information such as:
 
-- [x] Brand of the equipment used
-- [x] Setup of the equipment (e.g., electrodes placement)
-- [x] Training for the researchers
-- [x] Participant instructions
-- [x] Safety procedures
+- [x] **Brand** of the equipment used with link to its website
+- [x] **Setup** of the equipment (e.g., electrodes placement)
+- [x] **Training** for the researchers
+- [x] **Instructions** for participant during the setup and recording
+- [x] **Safety** procedures
 
 Additionally, it is crucial to state in your ethical application that all manufacturer instructions will be strictly followed.
 

@@ -2,10 +2,13 @@
 
 *Guidelines for best practices in psychophysiological research.*
 
-This document contains information to help you include physiological data in your experiments. Feel free to borrow, edit, improve, and do [let us know](https://github.com/RealityBending/SussexPhysioProtocol/issues) if you have questions or suggestions.
+## About
+
+This document contains information to help you include physiological data in your experiments. The templates and examples are presented for reference purposes and should be adapted to fit the specific requirements of each study. Feel free to borrow, edit, improve, and do [let us know](https://github.com/RealityBending/SussexPhysioProtocol/issues) if you have questions or suggestions.
 
 > **Note**
-> The template below is for reference purposes only and should be adapted to fit the specific requirements of each study.
+> This is a work-in-progress document, currently focusing on ECG. Get in touch if you want to contribute.
+
 
 ## What to add in your Inform Consent form?
 You should begin by providing a simple, non-technical explanation of the physiological data collection procedure to participants, emphasizing its purpose in the research study. Participants need to be informed that various sensors or devices may be used to collect physiological signals such as heart rate, respiration, or other relevant data. It should be made clear that the data collected is solely for research purposes and that any irrelevant information will not be observed or analysed by the researchers. Additionally, participants should be notified of the potential risks associated with the data collection procedure to ensure their safety and well-being. Providing a link to professional guidance for any concerns related to their health or well-being is essential.

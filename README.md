@@ -19,7 +19,6 @@ Here is a template of the information that should be included in the UK version 
 | --- |
 | ECG is a simple and safe way of detecting the electrical signals produced by your heart each time it beats, using disposable sensors attached to the skin (collarbones and hips). The equipment we use is intended for use in research and is not a medical device. The study is being undertaken for research purposes only, and **the researchers will not be able to provide any feedback regarding your ECG following participation**. If you have any concerns about your heart and/or related health issues, you should contact your GP. Further information about ECG is available on the NHS website: https://www.nhs.uk/conditions/electrocardiogram/ <br/><br/> **Skin Sensitivity:** We kindly request that participants refrain from volunteering for the study if they are aware of having sensitive skin to adhesives or materials such as silver and silver chloride. If you have experienced skin reactions or allergies to these materials in the past, we advise against participation. Your comfort and well-being are our top priorities, and we appreciate your understanding in ensuring a safe and suitable research environment. |
 
-
 ## What to Add in your Ethics Application?
 
 ### Risk Assessment Form
@@ -31,7 +30,13 @@ https://www.sussex.ac.uk/hso/hsoatoz
 
 #### ECG
 
-- TODO: Example of ECG risk assessment form questions? and Of some typical responses to ito
+Given that electrodes should be replaced with new ones after each session, the main risk in your ECG study is not hygiene related. Instead, it is crucial to focus on addressing the risk of allergic reactions towards electrodes. Please ensure to identify and address this risk in your study. 
+
+Here is an example of the risk of allergic reaction that you should include:
+
+| Hazards & Controls | 
+| --- |
+| **Potential hazards:** Allergic to electrodes <br/><br/> **Who might be harmed and how:** Participants, dermatitis caused by the allergic reaction from the electrodes <br/><br/> **What current controls are in place to avoid harm:** Participants will be asked before the placement of the electrodes if they had negative experience in the past with similar equipment. Additionally, the researcher will monitor potential discomfort or skin redness after the placement of the first electrode and remove everything if any suspicion arises <br/><br/> **What further control measures are required to reduce risk:** N/A <br/><br/> **Who will do this:** Researchers and participants <br/><br/> **When must this be done:** During the study <br/><br/> **Completed on:** N/A|
 
 ### Statements
 

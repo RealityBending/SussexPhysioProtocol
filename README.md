@@ -64,7 +64,9 @@ Regardless of the type of physiological data you will be collecting for the stud
 
 ##### BITalino
 
-- TODO: A bit of info about the device we use + some pictures & links?
+The ECG capabilities of BITalino offer users a high-quality sensor module for the accurate capture of electrical impulses from the heart. The platform allows for real-time monitoring, signal processing, and the storage and export of ECG data for analysis. Integration with other sensors enables full multi-modal data collecting, making it an invaluable tool for cardiovascular research, arrhythmia detection, and the creation of biofeedback systems. The ECG module from BITalino enables users to investigate and comprehend heart physiology in a variety of settings.
+
+Link to the official website: https://www.pluxbiosignals.com/pages/bitalino
 
 
 

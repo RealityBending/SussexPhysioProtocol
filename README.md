@@ -30,13 +30,13 @@ https://www.sussex.ac.uk/hso/hsoatoz
 
 #### ECG
 
-Given that electrodes should be replaced with new ones after each session, the main risk in your ECG study is not hygiene related. Instead, it is crucial to focus on addressing the risk of allergic reactions towards electrodes. Please ensure to identify and address this risk in your study. 
+With disposable electrodes, the main "risk" is that of an allergic reaction towards the adhesive materials present in the electrode pads. Though very rare, please ensure to identify and address this risk in your study. 
 
-Here is an example of the risk of allergic reaction that you should include:
+Here is an example of risk assessment that you should include:
 
 | Hazards & Controls | 
 | --- |
-| **Potential hazards:** Allergic to electrodes <br/><br/> **Who might be harmed and how:** Participants, dermatitis caused by the allergic reaction from the electrodes <br/><br/> **What current controls are in place to avoid harm:** Participants will be asked before the placement of the electrodes if they had negative experience in the past with similar equipment. Additionally, the researcher will monitor potential discomfort or skin redness after the placement of the first electrode and remove everything if any suspicion arises <br/><br/> **What further control measures are required to reduce risk:** N/A <br/><br/> **Who will do this:** Researchers and participants <br/><br/> **When must this be done:** During the study <br/><br/> **Completed on:** N/A|
+| **Potential hazards:** Allergic reaction to electrodes <br/><br/> **Who might be harmed and how:** Participants, dermatitis caused by the allergic reaction from the electrodes <br/><br/> **What current controls are in place to avoid harm:** Participants will be asked before the placement of the electrodes if they had negative experience in the past with similar equipment. Additionally, the researcher will monitor potential discomfort or skin redness after the placement of the first electrode and remove everything if any suspicion arises <br/><br/> **What further control measures are required to reduce risk:** N/A <br/><br/> **Who will do this:** Researchers and participants <br/><br/> **When must this be done:** During the study <br/><br/> **Completed on:** N/A|
 
 ### Statements
 
@@ -45,7 +45,7 @@ Apart from describing the tasks that participants will conduct during the experi
 - [x] **Brand** of the equipment used with link to its website
 - [x] **Setup** of the equipment (e.g., electrodes placement)
 - [x] **Training** for the researchers
-- [x] **Instructions** for participant during the setup and recording
+- [x] **Instructions** for participants during setup and recording
 - [x] **Safety** procedures
 
 Additionally, it is crucial to state in your ethical application that all manufacturer instructions will be strictly followed.

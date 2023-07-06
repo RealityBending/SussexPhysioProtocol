@@ -70,5 +70,15 @@ The ECG capabilities of BITalino offer users a high-quality sensor module for th
 
 Link to the official website: https://www.pluxbiosignals.com/pages/bitalino
 
+#### EEG
+
+##### Muse 2
+
+The Muse 2 headset is a reliable and versatile tool for gathering EEG (Electroencephalography) and other physiological data. With its high-quality sensors, researchers can capture and analyse electrical brain activity in real-time or record and store to analyse later. It offers a lightweight and comfortable design for participants, facilitating non-intrusive and longer data collection sessions. Using two electrodes on the front headband of the device aswell as two behind the ear sensors, the Muse 2 headset can record EEG data from the frontal and temporal lobes. On top of its EEG capabilities, the headband tracks heart rate (PPG + Pulse Oximetry), angular velocity (gyroscope), proper acceleration (accelerometer) making this lightweight headset a powerful tool for gathering a range of physiological data without a lengthy setup or making the participant feel uncomfortable with multiple intrusive sensors. The Muse 2 headset has potential uses in various research applications, including cognitive neuroscience, neurofeedback, meditation research, and sleep studies.
+
+<a href="https://www.amazon.co.uk/nteraXon-Unisex-Adult-Brain-Detection-Headband/dp/B07HL2S9JQ/ref=sr_1_3?crid=3VH8IBKK61YQ3&keywords=muse+2+headset&qid=1688652304&sprefix=muse+2+headset%2Caps%2C80&sr=8-3"><img src="https://helios-i.mashable.com/imagery/articles/050EPoECzdnAvkzVh6XWoj5/images-1.fit_lim.size_2000x.v1611698680.jpg" height="300" alt = "Muse2"/></a>
+
+Link to the official website: https://choosemuse.com/
+
 
 

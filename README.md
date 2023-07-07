@@ -45,8 +45,8 @@ Additionally, it is crucial to state in your ethical application that all manufa
 
 Here are examples of the information that should be added to the ethics application regarding the physiological data collection procedure:
 
-- [**Cardiac Activity (ECG, PPG)**](https://github.com/RealityBending/SussexPhysioProtocol/blob/main/ECG.md#protocol-in-ethics-application)
-- [**EEG**](https://github.com/RealityBending/SussexPhysioProtocol/blob/main/EEG.md#protocol-in-ethics-application)
+- [**Cardiac Activity (ECG, PPG)**](https://github.com/RealityBending/SussexPhysioProtocol/blob/main/ECG.md#procedure)
+- [**EEG**](https://github.com/RealityBending/SussexPhysioProtocol/blob/main/EEG.md#procedure)
 
 ### Equipment Details
 

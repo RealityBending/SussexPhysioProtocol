@@ -55,5 +55,11 @@ Regardless of the type of physiological data you will be collecting for the stud
 - [**Cardiac Activity (ECG, PPG)**](https://github.com/RealityBending/SussexPhysioProtocol/blob/main/ECG.md#equipment-details)
 - [**EEG**](https://github.com/RealityBending/SussexPhysioProtocol/blob/main/EEG.md#equipment-details)
 
+## What to do during the experiments
+
+Make a checklist. An example can be found here:
+
+- Add link to checklist (word doc)
+- Add screenshot to show in the README how it looks like
 
 

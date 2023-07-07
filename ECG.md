@@ -1,14 +1,14 @@
-# ECG
+# Cardiac Activity (ECG and PPG)
 
 ## Informed Consent Form
 
-| PPG |
-| --- |
-| We will be recording your pulse (blood flow) via a sensor on the tip of your finger. |
-
-| About ECG | 
+| ECG | 
 | --- |
 | ECG is a simple and safe way of detecting the electrical signals produced by your heart each time it beats, using disposable sensors attached to the skin (collarbones and hips). The equipment we use is intended for use in research and is not a medical device. The study is being undertaken for research purposes only, and **the researchers will not be able to provide any feedback regarding your ECG following participation**. If you have any concerns about your heart and/or related health issues, you should contact your GP. <br/><br/> **Skin Sensitivity:** We kindly request that participants refrain from volunteering for the study if they are aware of having sensitive skin to adhesives or materials such as silver and silver chloride. If you have experienced skin reactions or allergies to these materials in the past, we advise against participation. Your comfort and well-being are our top priorities, and we appreciate your understanding in ensuring a safe and suitable research environment. |
+
+| PPG |
+| --- |
+| We will be recording your pulse (blood flow) via a sensor on the tip of your finger to measure your heart rate. |
 
 ## Risk Assessment Form
 

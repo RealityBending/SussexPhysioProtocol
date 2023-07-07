@@ -20,7 +20,7 @@ Here is an example of risk assessment that you should include:
 | --- |
 | **Potential hazards:** Allergic reaction to electrodes <br/><br/> **Who might be harmed and how:** Participants, dermatitis caused by the allergic reaction from the electrodes <br/><br/> **What current controls are in place to avoid harm:** Participants will be asked before the placement of the electrodes if they had negative experience in the past with similar equipment. Additionally, the researcher will monitor potential discomfort or skin redness after the placement of the first electrode and remove everything if any suspicion arises <br/><br/> **What further control measures are required to reduce risk:** N/A <br/><br/> **Who will do this:** Researchers and participants <br/><br/> **When must this be done:** During the study <br/><br/> **Completed on:** N/A|
 
-## Protocol in Ethics Application
+## Procedure
 
 | Cardiac Recording | 
 | --- |

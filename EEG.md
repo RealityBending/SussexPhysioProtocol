@@ -6,7 +6,7 @@
 | --- |
 | EEG (Electroencephalography) is a method of recording electrical activity in the brain, providing an electrogram representation of brain waves. This is achieved by placing electrodes around the head to measure electrical conductance. In our study, we will be using electrodes on the forehead and behind the ears to capture the electrogram from two different sites. In some cases, a slightly damp cloth may be used to increase conductance and improve the quality of the recorded data. <br/><br/> To measure EEG, we will utilize the Muse 2 headset. Although this headset is commercially available for meditation purposes, it will be used exclusively for research in our study. Therefore, we will not be able to provide feedback or information on clinical aspects of the data obtained. The Muse 2 headset is lightweight and non-intrusive, ensuring a comfortable experience during the recording session. If you have long hair, we recommend bringing a hairband to ensure unobstructed contact between the electrodes and your skin.|
 
-## Protocol in Ethics Application
+## Procedure
 
 | EEG Recording | 
 | --- |

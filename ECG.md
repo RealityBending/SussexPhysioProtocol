@@ -35,3 +35,13 @@ The ECG capabilities of BITalino offer users a high-quality sensor module for th
 <a href="https://www.pluxbiosignals.com/collections/bitalino/products/psychobit"><img src="https://www.pluxbiosignals.com/cdn/shop/products/bitalino-revolution-psychobit-bt.jpg" height="300" alt = "PsychoBIT"/></a>
 
 Link to the official website: https://www.pluxbiosignals.com/pages/bitalino
+
+#### Modified lead II 
+
+ECG electrode placement with modified Lead II involves a specific arrangement of electrodes on the patient's body to capture electrical activity in a distinct manner. In this modified setup, the white electrode is positioned on the right collarbone, the black electrode on the right hipbone, and the red electrode on the left hipbone. The modified Lead II configuration may yield improved signal quality compared to other lead placements. This can reduce interference, artefact, or noise that could hinder the interpretation of the ECG recordings. Higher-quality signals enable more precise analysis and facilitate accurate diagnosis.
+
+<a href="https://www.researchgate.net/publication/4369781_Psychophysiological_experimental_design_for_use_in_human-robot_interaction_studies#pf5"><img src="https://www.researchgate.net/profile/Kristen-Salomon/publication/4369781/figure/fig2/AS:279440841035786@1443635296538/Electrode-Placements-for-EDA-11.png" height="30" alt = "Modified lead II"/></a>
+
+
+
+

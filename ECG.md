@@ -38,7 +38,7 @@ Link to the official website: https://www.pluxbiosignals.com/pages/bitalino
 
 #### Modified lead II 
 
-ECG electrode placement with modified Lead II involves a specific arrangement of electrodes on the patient's body to capture electrical activity in a distinct manner. In this modified setup, the white electrode is positioned on the right collarbone, the black electrode on the right hipbone, and the red electrode on the left hipbone. The modified Lead II configuration may yield improved signal quality compared to other lead placements. This can reduce interference, artefact, or noise that could hinder the interpretation of the ECG recordings. Higher-quality signals enable more precise analysis and facilitate accurate diagnosis.
+ECG electrode placement with modified Lead II involves a specific arrangement of electrodes on the patient's body to capture electrical activity in a distinct manner. In this modified setup, the white electrode is positioned below the right collarbone, the black electrode below the right ribs, and the red electrode below the left ribs. The modified Lead II configuration may yield improved signal quality compared to other lead placements. This can reduce interference, artefact, or noise that could hinder the interpretation of the ECG recordings. Higher-quality signals enable more precise analysis and facilitate accurate diagnosis.
 
 Link to the article: https://www.researchgate.net/publication/4369781_Psychophysiological_experimental_design_for_use_in_human-robot_interaction_studies#pf5
 

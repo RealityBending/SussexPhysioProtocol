@@ -22,3 +22,11 @@ The Muse 2 headset is a reliable and versatile tool for gathering EEG (Electroen
 <a href="https://www.amazon.co.uk/nteraXon-Unisex-Adult-Brain-Detection-Headband/dp/B07HL2S9JQ/ref=sr_1_3?crid=3VH8IBKK61YQ3&keywords=muse+2+headset&qid=1688652304&sprefix=muse+2+headset%2Caps%2C80&sr=8-3"><img src="https://helios-i.mashable.com/imagery/articles/050EPoECzdnAvkzVh6XWoj5/images-1.fit_lim.size_2000x.v1611698680.jpg" height="300" alt = "Muse2"/></a>
 
 Link to the official website: https://choosemuse.com/
+
+## Additional Information
+
+Muse has shown validity as a low-cost EEG device used to measure event-related brain potentials (ERP). For more information please visit: https://www.frontiersin.org/articles/10.3389/fnins.2017.00109/full
+
+Muse has been used in over 200 peer-reviewed studies. For more information of some studies that have used Muse visit: https://choosemuse.com/pages/muse-research
+
+
